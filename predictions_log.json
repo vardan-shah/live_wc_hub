@@ -1,0 +1,32 @@
+{
+  "SEMI_FINALS::2026-07-14::France_vs_Spain": {
+    "stage": "SEMI_FINALS",
+    "date": "2026-07-14",
+    "team1": "France",
+    "team2": "Spain",
+    "predicted_at": "2026-07-13T09:54:48.360377+00:00",
+    "team1_win_prob": 0.132,
+    "draw_prob": 0.25,
+    "team2_win_prob": 0.618,
+    "favourite": "Spain",
+    "confidence": "High",
+    "actual_result": null,
+    "actual_winner": null,
+    "correct": null
+  },
+  "SEMI_FINALS::2026-07-15::England_vs_Argentina": {
+    "stage": "SEMI_FINALS",
+    "date": "2026-07-15",
+    "team1": "England",
+    "team2": "Argentina",
+    "predicted_at": "2026-07-13T09:54:48.364460+00:00",
+    "team1_win_prob": 0.33,
+    "draw_prob": 0.25,
+    "team2_win_prob": 0.42,
+    "favourite": "Argentina",
+    "confidence": "Closely contested",
+    "actual_result": null,
+    "actual_winner": null,
+    "correct": null
+  }
+}
