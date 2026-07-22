@@ -164,6 +164,6 @@ The internal timestamp is only as trustworthy as the machine that generated it. 
 | 1 | Match Outcome Predictor | Logistic Regression, leakage-free evaluation |
 | 2 | xG Engine & AI Scout | StatsBomb, XGBoost, SHAP, Claude API |
 | 3 | World Cup RAG Chatbot | LangChain, ChromaDB, Groq, Llama-3.3 |
-| **5** | **Live 2026 Prediction Hub** | **Live APIs, self-auditing calibration tracking, Streamlit** |
+| **4** | **Live 2026 Prediction Hub** | **Live APIs, self-auditing calibration tracking, Streamlit** |
 
 ---
