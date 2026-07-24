@@ -3,6 +3,7 @@
 > A dashboard that tracked the FIFA World Cup 2026 knockout stage in real time, generated ML win probabilities for every match, and logged each prediction with a timestamp — then, once the tournament ended, was audited against its own logs to separate genuine real-time foresight from after-the-fact backtesting.
 
 **Project 5** in a FIFA World Cup analytics portfolio series. **Tournament complete — Spain are 2026 World Cup champions.**
+https://livewcapp-bmr6xbavw9wabpkn9vmkjo.streamlit.app/
 
 ---
 
